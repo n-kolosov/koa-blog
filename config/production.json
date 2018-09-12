@@ -1,0 +1,6 @@
+{
+  "env": "production",
+  "mongo": {
+    "url": "mongo-production"
+  }
+}
